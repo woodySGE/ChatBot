@@ -5,6 +5,8 @@ build/
 dist/
 wheels/
 *.egg-info
+.envgit config --global user.name "Your Name"
+env
 
 # Virtual environments
 .venv
